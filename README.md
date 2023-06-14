@@ -1,5 +1,5 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
-<hr>
+<hr align="center">
 Made by  Ayush 
 jain with ❤️
